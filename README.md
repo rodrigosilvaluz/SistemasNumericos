@@ -10,7 +10,7 @@ Chapter 3 - Booleans, Conditionals, Loops, List, Logical and Bitwise Operations
 
 Chapter 4 - Functions, Tuples, Dictionaries, Exceptions, and Data Processing
 
-##---------------------------------------------------------------------------------------------------------------##
+##------------------------------------------------------------------------------------------------##
 
 
 
