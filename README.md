@@ -9,7 +9,7 @@ three course completers win Beats headphones.The frist 200 earn vouchers for Pyt
 
 Python is used by startups and tech giants, it offers endless possibilities for creating small and large-scale software projects.Python is a great first programming language to learn and requires no prior programming knowledge. Python skills open you up to great carrers in higher paying software development and engineering roles.
 
-Course developed in collaboration with [OpenEDG Python Institute](https://pythoninstitute.org)and prepares you for the course also prepares you for the
+Course developed in collaboration with [OpenEDG Python Institute](https://pythoninstitute.org) and prepares you for the course also prepares you for the
 [PCEP - Certified Entry-Level Python Programmer certification](https://pythoninstitute.org/certification/pcep-certification-entry-level/)
 
 
