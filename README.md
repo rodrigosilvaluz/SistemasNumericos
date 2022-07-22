@@ -1,2 +1,1 @@
 # PythonUp
-Scripts de Python
